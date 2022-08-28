@@ -1,8 +1,8 @@
-echo "hit ctl,shift, and v to paste the youtube channel url youd like to get transcripts from"
+echo -e >
+echo -e >
+echo -e >
 
-echo -e >
-echo -e >
-echo -e >
+echo "hit ctl,shift, and v to paste the youtube channel url youd like to get transcripts from"
 
 read channelurl
 
