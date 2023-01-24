@@ -1,3 +1,5 @@
+theme: modernist
+
 # ytTranscriptSearch
 ### Get transcripts from YouTube
 
